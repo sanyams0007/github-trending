@@ -1,0 +1,13 @@
+.App-link {
+  color: #61dafb;
+}
+
+.git-login {
+  margin: 20px;
+  padding: 10px;
+  border-radius: 5px;
+  border: none;
+  background-color: #434344;
+  font-size: 20px;
+  color: white;
+}
